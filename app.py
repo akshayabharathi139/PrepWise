@@ -34,7 +34,7 @@ except LookupError:
 
 # Set page configuration
 st.set_page_config(
-    page_title="Mock Interview Assistant",
+    page_title="PrepWise",
     page_icon="🎯",
     layout="wide"
 )
