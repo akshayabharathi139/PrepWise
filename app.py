@@ -563,11 +563,13 @@ def start_interview():
                 else:
                     st.markdown("**Feedback:** Significant gaps in understanding. Review this topic thoroughly.")
                 
-                # Show ideal answer
-                with st.expander("View Ideal Answer"):
-                    st.write(question['ideal_answer'])
-                
-                st.markdown("---")
+                       # Show ideal answer
+        with st.expander("Question"):
+            st.write("Tell me about yourself.")
+
+# ✅ Move this outside the first expander
+        with st.expander("View Ideal Answer"):
+            st.write("The ideal answer is...")
         
         # Restart button
         if st.button("Start New Interview", use_container_width=True):
