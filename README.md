@@ -3,6 +3,14 @@
 💻 AI-Based Mock Interview Chatbot (Streamlit + NLTK)
 This project is an AI-powered Mock Interview Chatbot built with Python and Streamlit that simulates a real interview environment. The chatbot asks users interview questions, evaluates their answers, provides feedback, and scores their performance based on keyword matching and text analysis.
 
+
+## Demo video
+
+
+https://github.com/user-attachments/assets/5a2d2ea0-a17c-40af-a479-2800e790786b
+
+
+
 🚀 Key Features
 🗣️ Interactive Interview Simulation with real-time question and answer flow
 
@@ -17,13 +25,13 @@ This project is an AI-powered Mock Interview Chatbot built with Python and Strea
 ⚡ Simple Streamlit Web Interface for seamless user experience
 
 🔧 Tech Stack
-Python 3.10
+-Python 3.10
 
-Streamlit
+-Streamlit
 
-Natural Language Toolkit (NLTK)
+-Natural Language Toolkit (NLTK)
 
-NLTK WordNetLemmatizer & Punkt Tokenizer
+-NLTK WordNetLemmatizer & Punkt Tokenizer
 
 Text Processing and Analysis
 
